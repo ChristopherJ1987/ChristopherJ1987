@@ -1,8 +1,6 @@
-<div align="center">
 # ChristopherJ1987
-</div> 
 
-<h2 align="left">Hi 👋! My name is Christopher and I'm a developer and gamer, from the States.</h2>
+<h2 align="center">Hi 👋! My name is Christopher and I am a developer and gamer from the States.</h2>
 
 ###
 
@@ -19,6 +17,7 @@
 ###
 
 <div align="left">
+  <h5>Most Used Skills:</h5>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
