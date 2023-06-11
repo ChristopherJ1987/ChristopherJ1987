@@ -1,4 +1,7 @@
+<div align="center">
 # ChristopherJ1987
+</div> 
+
 <h2 align="left">Hi 👋! My name is Christopher and I'm a developer and gamer, from the States.</h2>
 
 ###
