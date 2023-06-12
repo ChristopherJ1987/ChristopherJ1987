@@ -1,9 +1,6 @@
 <br/>
 
-<h2 align="center" border-bottom="none">Hi 👋! My name is Chris - aka Momo</h2>
-<p align="center">I am a gamer and developer from the States</p>
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&multiline=true&width=844&height=144&lines=Hi+%F0%9F%91%8B!+My+name+is+Chris+-+aka+Momo;I+am+a+gamer+and+developer+from+the+States)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/christopher-jones-b50345158/" target="_blank">
