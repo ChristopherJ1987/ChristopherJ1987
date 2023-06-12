@@ -1,6 +1,6 @@
 <br/>
 
-<h2 align="center" list-style-type="none">Hi 👋! My name is Chris - aka Momo</h2>
+<h2 align="center" border="none">Hi 👋! My name is Chris - aka Momo</h2>
 <p align="center">I am a gamer and developer from the States</p>
 
 <br/>
