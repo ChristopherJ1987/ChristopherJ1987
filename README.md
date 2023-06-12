@@ -1,23 +1,32 @@
 <br/>
-<h2 align="center">Hi 👋! My name is Christopher and I am a developer and gamer from the States.</h2>
+
+<h2 align="center">Hi 👋! My name is Chris - aka Momo</h2>
+<h2 align="center">I am a gamer and developer from the States</h2>
+
 <br/>
 
----
-
-<br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristopherJ1987&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=ChristopherJ1987&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristopherJ1987&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/christopher-jones-b50345158/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/christopherrobin3.25.87/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://codepen.io/ChristopherJ1987" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+  <a href="https://clever-sunburst-739be9.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio Webpage&logo=charmander&label=&color=4B0076&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio webpage logo"  />
+  </a>
 </div>
+
 <br/>
 
 ---
 
 <br/>
-<img align="right" height="150" src="https://media.tenor.com/aUGe279LZVsAAAAd/kimetsu-no-yaiba-demon-slayer.gif"  />
 
-###
+<img align="right" height="150" src="https://media.tenor.com/aUGe279LZVsAAAAd/kimetsu-no-yaiba-demon-slayer.gif"  />
 
 <div align="left">
   <h5>Most Used Skills:</h5>
@@ -31,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="30" alt="codepen logo"  />
   <img width="12" />
-  <h5>Slightly Used Skills:</h5>
+  <h5>Less Used Skills:</h5>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -77,24 +86,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
 </div>
+
 <br/>
 
 ---
 
 <br/>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/christopher-jones-b50345158/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/christopherrobin3.25.87/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://codepen.io/ChristopherJ1987" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-  <a href="https://clever-sunburst-739be9.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio Webpage&logo=charmander&label=&color=4B0076&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio webpage logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristopherJ1987&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=ChristopherJ1987&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristopherJ1987&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<br/>
+
+---
+
+<br/>
