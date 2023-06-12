@@ -25,7 +25,7 @@
 
 👽 About Me:
 - 🌎 I live in Texas
-- 🌱 Graduated from Coding Dojo
+- 🧑‍🎓 Graduated from Coding Dojo
 - 💻 I'm looking for a role as a developer
 - 🤓 I code daily and find resources online to continue levelling up
 - 🏫 FreeCodeCamp, Github, and Youtube are my favorite resources
