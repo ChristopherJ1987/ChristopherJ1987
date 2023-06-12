@@ -1,7 +1,7 @@
 <br/>
 
 <h2 align="center">Hi 👋! My name is Chris - aka Momo</h2>
-<h2 align="center">I am a gamer and developer from the States</h2>
+<p align="center">I am a gamer and developer from the States</p>
 
 <br/>
 
@@ -19,6 +19,21 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio Webpage&logo=charmander&label=&color=4B0076&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio webpage logo"  />
   </a>
 </div>
+
+<br/>
+
+---
+
+<br/>
+
+👽 About Me:
+- 🌎 I live in Texas
+- 🌱 Graduated from Coding Dojo
+- 💻 I'm looking for a role as a developer
+- 🤓 I code daily and find resources online to continue levelling up
+- 🏫 FreeCodeCamp, Github, and Youtube are great resources
+- 🥦 I am learning how to grow herbs and vegetables 🍉
+- 🐈 I have two cats and one snake 🐍
 
 <br/>
 
