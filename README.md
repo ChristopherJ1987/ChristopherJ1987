@@ -1,6 +1,8 @@
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&center=true&vCenter=true&multiline=true&width=844&height=144&lines=Hi+%F0%9F%91%8B!+My+name+is+Chris+-+aka+Momo;I+am+a+gamer+and+developer+from+the+States)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=444&size=22&duration=01&center=true&repeat=false&width=825&height=55&lines=Hi+%F0%9F%96%96+My+name+is+Chris+-+aka+Momo)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=444&size=22&duration=5555&pause=400&center=true&width=825&height=55&lines=I+am+a+gamer+and+developer+from+the+states)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/christopher-jones-b50345158/" target="_blank">
