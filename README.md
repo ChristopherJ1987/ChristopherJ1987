@@ -1,6 +1,6 @@
 <br/>
 
-<h2 align="center">Hi 👋! My name is Chris - aka Momo</h2>
+<h2 align="center" list-style-type="none">Hi 👋! My name is Chris - aka Momo</h2>
 <p align="center">I am a gamer and developer from the States</p>
 
 <br/>
@@ -31,7 +31,7 @@
 - 🌱 Graduated from Coding Dojo
 - 💻 I'm looking for a role as a developer
 - 🤓 I code daily and find resources online to continue levelling up
-- 🏫 FreeCodeCamp, Github, and Youtube are great resources
+- 🏫 FreeCodeCamp, Github, and Youtube are my favorite resources
 - 🥦 I am learning how to grow herbs and vegetables 🍉
 - 🐈 I have two cats and one snake 🐍
 
