@@ -1,5 +1,3 @@
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=444&size=22&duration=01&center=true&repeat=false&width=825&height=55&lines=Hi+%F0%9F%96%96+My+name+is+Chris+-+aka+Momo)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=444&size=22&duration=5555&pause=400&center=true&width=825&height=55&lines=I+am+a+gamer+and+developer+from+the+states)](https://git.io/typing-svg)
