@@ -38,8 +38,6 @@
 
 <br/>
 
-<img align="right" height="150" src="https://media.tenor.com/aUGe279LZVsAAAAd/kimetsu-no-yaiba-demon-slayer.gif"  />
-
 <div align="left">
   <h5>Most Used Skills:</h5>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -98,6 +96,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
   <img width="12" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img align="left" height="150" src="https://media.tenor.com/aUGe279LZVsAAAAd/kimetsu-no-yaiba-demon-slayer.gif"  />
+  <img align="center" height="150" src="https://media.tenor.com/kT9o3D5JZEgAAAAC/kimetsu-no-yaiba-demon-slayer.gif"  />
+  <img align="right" height="150" src="https://media.tenor.com/7tvgNM-zYbwAAAAC/inosuke-kimetsu.gif"  />
 </div>
 
 <br/>
