@@ -30,7 +30,7 @@
 - 🐈 I have two cats and one snake 🐍
 
 ---
-<br/>
+
 <div align="left">
   <h5>Most Used Skills:</h5>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
