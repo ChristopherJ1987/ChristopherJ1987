@@ -16,12 +16,9 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio Webpage&logo=charmander&label=&color=4B0076&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio webpage logo"  />
   </a>
 </div>
-
 <br/>
 
 ---
-
-<br/>
 
 👽 About Me:
 - 🌎 I live in Texas
@@ -32,12 +29,8 @@
 - 🥦 I am learning how to grow herbs and vegetables 🍉
 - 🐈 I have two cats and one snake 🐍
 
-<br/>
-
 ---
-
 <br/>
-
 <div align="left">
   <h5>Most Used Skills:</h5>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -98,7 +91,6 @@
   <img width="12" />
 </div>
 
-<br/>
 <br/>
 <br/>
 
