@@ -99,8 +99,6 @@
   <img align="right" height="150" src="https://media.tenor.com/7tvgNM-zYbwAAAAC/inosuke-kimetsu.gif"  />
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
