@@ -1,13 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=444&size=22&duration=01&center=true&repeat=false&width=825&height=55&lines=Hi+%F0%9F%96%96+My+name+is+Chris+-+aka+Momo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=444&size=22&duration=01&center=true&repeat=false&width=825&height=55&lines=Hi+%F0%9F%96%96+My+name+is+Christopher)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=444&size=22&duration=5555&pause=400&center=true&width=825&height=55&lines=I+am+a+gamer+and+developer+from+the+states)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=444&size=22&duration=5555&pause=400&center=true&width=825&height=55&lines=I+am+a+developer+from+the+states)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/christopher-jones-b50345158/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/christopherrobin3.25.87/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://codepen.io/ChristopherJ1987" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
@@ -16,18 +13,17 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio Webpage&logo=charmander&label=&color=4B0076&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio webpage logo"  />
   </a>
 </div>
-<br/>
 
 ---
 
 👽 About Me:
-- 🌎 I live in Texas
-- 🧑‍🎓 Graduated from Coding Dojo
-- 💻 I'm looking for a role as a developer
-- 🤓 I code daily and find resources online to continue levelling up
-- 🏫 FreeCodeCamp, Front End Mentor, Github, Scrimba, and Youtube are my favorite resources
-- 🥦 I am learning how to grow herbs and vegetables 🍉
-- 🐈 I have two cats and one snake 🐍
+- 🧑‍🎓 I am a veterinary technician turned developer (bootcamp grad. 2020)
+- 💻 Currently leveling up with BeeDev Services by working on client projects with a team.
+- 🌱 Focused on personal growth and always open to mentorship, learning, and working opportunities.
+- 🎯 I love solving problems I don't know how to solve yet. When frustration turns into breakthrough it's everything!
+- 💚 One day at a time, one commit at a time ... I feel the urge to get as many GitHub squares glowing as I can.
+- 🐾 Animal lover and pet parent - My current crew is 🐈 🐈 two cats and one snake 🐍
+- 🧩 Chasing curiosity wherever it leads: 🍉 gardening and growing vegetables, 🥦 cooking plant-based meals, 🎨 painting
 
 ---
 
