@@ -22,7 +22,7 @@
 - 🌱 Focused on personal growth and always open to mentorship, learning, and working opportunities.
 - 🎯 I love solving problems I don't know how to solve yet. When frustration turns into breakthrough it's everything!
 - 💚 One day at a time, one commit at a time ... I feel the urge to get as many GitHub squares glowing as I can.
-- 🐾 Animal lover and pet parent - My current crew is 🐈 🐈 two cats and one snake 🐍
+- 🐾 Animal lover and pet parent: My current crew is two cats 🐈 🐈 and one snake 🐍
 - 🧩 Chasing curiosity wherever it leads: 🍉 gardening and growing vegetables, 🥦 cooking plant-based meals, 🎨 painting
 
 ---
