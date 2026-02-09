@@ -30,10 +30,10 @@
 ### ⚙️  Tech Stack
 
 #### Working With
-[![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,git,vscode)](https://skillicons.dev)
 
 #### Also Familiar With
-[![Skills](https://skillicons.dev/icons?i=npm,python,ruby,rails,angular,django,flask,mongodb,mysql,postgresql,sass,java,spring,typescript,aws,swift)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,ruby,rails,angular,django,flask,mongodb,mysql,postgresql,sass,java,spring,typescript,aws,swift)](https://skillicons.dev)
 
 ---
 
